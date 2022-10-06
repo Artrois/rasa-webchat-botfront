@@ -37,11 +37,14 @@
 - Smart delay between messages
 - Easy to import in a script tag or as a React Component
 
-## 🔥 Promo: check out our other cool open source project
+## Project setup
+```npm install```
 
-<a href="https://github.com/botfront/botfront?utm_source=rasa_webchat">
-<img align="center" src="https://github.com/botfront/botfront/raw/master/botfront_animation.gif" alt="demonstration" width="100%">
-</a>
+### Compile and Hot-Reload for Development
+```npm run dev```
+
+### Compile and Minify for production
+```npm run build```
 
 
 ## Usage
